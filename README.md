@@ -1,6 +1,6 @@
 # **Smart Conference Management Platform (SCMP)**
 
-![SCMP Banner](./imagesForGIT/2/video.mp4)
+![SCMP Banner](./imagesForGIT/2/video.gif)
 
 The **Smart Conference Management Platform (SCMP)** is a modern web application designed to streamline the management of conferences. It allows organizers to manage events, participants to register and engage, and speakers to manage sessions, all in one platform. SCMP features AI-powered recommendations, real-time notifications, and multilingual support, making it the ultimate solution for conferences of all sizes.
 
